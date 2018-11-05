@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>HSBC Holdings Bank locations in Surabaya</name>
+    <description><![CDATA[Find a HSBC Holdings branch at your location to save on banking fees and costs from using other banks]]></description>
+    <atom:link href="https://hsbc.banklocationmaps.com/" />
+        <Placemark>
+          <name>HSBC Branch &amp; ATM: Jl. Kertoarjo No. 31, Surabaya</name>
+          <description>
+              Jl. Kertoarjo No. 31&lt;br/&gt;
+               60285&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1564"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.766848, -7.280528,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC Branch &amp; ATM: Jl. Jendral Basuki Rachmat No.58-60, Surabaya</name>
+          <description>
+              Jl. Jendral Basuki Rachmat No.58-60&lt;br/&gt;
+               60271&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1565"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.74075, -7.266977,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC Branch &amp; ATM: Diponegoro 8, Surabaya</name>
+          <description>
+              Jalan Diponegoro 8&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1567"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.7377, -7.2943,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC Branch &amp; ATM: Jl. Mayjen Sungkono, Surabaya</name>
+          <description>
+              Jl. Mayjen Sungkono&lt;br/&gt;
+               Darmo Park I Blok A 1-2&lt;br/&gt;
+               60256&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1569"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.717592, -7.290809,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC Branch &amp; ATM: Ruko Golden Palace Blok A20, Surabaya</name>
+          <description>
+              Ruko Golden Palace Blok A20&lt;br/&gt;
+               Jl. HR Muhammad 373-383&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1570"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.6929, -7.28529,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC ATM Only, no branch office: Aiprot Djuanda, Surabaya</name>
+          <description>
+              Aiprot Djuanda&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1563"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.787533, -7.381874,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC ATM Only, no branch office: Jl. Dharma Husada Timur 35, Surabaya</name>
+          <description>
+              Jl. Dharma Husada Timur 35&lt;br/&gt;
+               60285&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Landmark: 3rd Floor&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1562"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.781814, -7.275644,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC ATM Only, no branch office: Jl. Adityawarman No 55, Surabaya</name>
+          <description>
+              Jl. Adityawarman No 55&lt;br/&gt;
+               60242&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1568"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.734146, -7.270524,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>HSBC ATM Only, no branch office: Jl. Puncak Indah Lontar 2, Surabaya</name>
+          <description>
+              Jl. Puncak Indah Lontar 2&lt;br/&gt;
+               60123&lt;br/&gt;
+               Surabaya&lt;br/&gt;
+               Jawa Timur&lt;br/&gt;
+               Landmark: Lobby Area&lt;br/&gt;
+               Indonesia&lt;br/&gt;
+            (&lt;a href="https://hsbc.banklocationmaps.com/indonesia/jawa-timur/surabaya#1571"&gt;more info&lt;/a&gt;)
+          </description>
+          <Point>
+            <coordinates>112.674665, -7.290106,0</coordinates>
+          </Point>
+        </Placemark>
+  </Document>
+</kml>
